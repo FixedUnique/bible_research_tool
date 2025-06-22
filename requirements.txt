@@ -1,5 +1,5 @@
 streamlit
 requests
 transformers
-torch
-tensorflow
+torch==2.3.0
+tensorflow==2.16.1
